@@ -11,12 +11,6 @@
 
 ## Professional Experience
 
-### Intern - Bimbel Neutron 
-Yogyakarta, Indonesia. March 2021 - January 2022
-
-- Help mantain and manage network infrastructure
-- Create tools using python
-
 ### DevOps Engineer - Botika Online
 Yogyakarta, Indonesia. July 2022 - Present
 
@@ -24,6 +18,12 @@ Yogyakarta, Indonesia. July 2022 - Present
 - Linux server setup and administration Ansible
 - System observability and monitoring
 - Create tools for automation and CI/CD to ensure consistency and fast deployment
+
+### Intern - Bimbel Neutron 
+Yogyakarta, Indonesia. March 2021 - January 2022
+
+- Help mantain and manage network infrastructure
+- Create tools using python
 
 ## Key Skills
 
