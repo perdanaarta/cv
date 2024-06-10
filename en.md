@@ -35,6 +35,6 @@ Yogyakarta, Indonesia. March 2021 - January 2022
 
 ## Languages
 
-- Bahasa Indonesia - Expert
+- Bahasa Indonesia - Native
 
 - English - Competent
