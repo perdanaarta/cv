@@ -11,15 +11,15 @@
 
 ## Professional Experience
 
-### DevOps Engineer - Botika Online
-Yogyakarta, Indonesia. July 2022 - Present
+### Botika Online- DevOps Engineer
+Yogyakarta, Indonesia. July 2022 - May 2024
 
 - Manage Azure infrastructure using Terraform and AZ CLI
 - Linux server setup and administration Ansible
 - System observability and monitoring
 - Create tools for automation and CI/CD to ensure consistency and fast deployment
 
-### Intern - Bimbel Neutron 
+### Neutron Yogyakarta - Intern
 Yogyakarta, Indonesia. March 2021 - January 2022
 
 - Help mantain and manage network infrastructure
